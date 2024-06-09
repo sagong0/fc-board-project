@@ -35,9 +35,9 @@ spring:
 #  thymeleaf.cache: false
 
 ---
-
-spring:
-  config.activate.on-profile: tesdtdb
+#
+#spring:
+#  config.activate.on-profile: tesdtdb
 #  datasource:
 #    url: jdbc:h2:mem:board;mode=mysql
 #    driver-class-name: org.h2.Driver
